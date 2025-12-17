@@ -29,3 +29,11 @@ From the project folder:
 
 ```bash
 python main.py -f sample_logs_2.txt -t 3 -o suspicious_report.txt
+
+Security & Ethics Note
+
+This project uses sample logs for educational purposes and is intended for defensive monitoring and incident response. It should only be used on systems and logs you are authorized to analyze.
+
+AI Tools Used
+
+GitHub Copilot was used for syntax assistance and quick suggestions while coding. All logic and implementation decisions were reviewed and finalized by the author.
