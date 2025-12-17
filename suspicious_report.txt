@@ -1,0 +1,16 @@
+Authentication Log Analyzer Report
+=================================
+Generated: 2025-12-17 15:48:43.907262
+
+Suspicious IPs (potential brute-force activity):
+
+198.51.100.25 -> 5 failed login attempts
+203.0.113.45 -> 5 failed login attempts
+203.0.113.46 -> 5 failed login attempts
+198.51.100.77 -> 5 failed login attempts
+198.199.88.123 -> 3 failed login attempts
+209.141.46.200 -> 4 failed login attempts
+203.0.113.200 -> 3 failed login attempts
+198.51.100.75 -> 4 failed login attempts
+185.165.190.95 -> 3 failed login attempts
+185.220.101.45 -> 3 failed login attempts
